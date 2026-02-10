@@ -125,3 +125,10 @@ footer{
   font-size:14px;
   opacity:.6;
 }
+
+img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
